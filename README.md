@@ -10,7 +10,7 @@ based on https://github.com/learninto/gorsa Optimized the following points for p
 Get expansion pack:
 
 ```
-go get github.com/learninto/gorsa
+go get github.com/learninto/gorsa@v1.0.0
 ```
 
 Specific use:
